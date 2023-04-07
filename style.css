@@ -1,0 +1,43 @@
+body {
+    background-color: white;
+    margin: 10px 10%;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:  #AA77FF;
+}
+
+#items {
+    padding: 10px 10px;
+    align-content: center;
+}
+
+.item-description {
+    padding: 5px;
+    width: 200px;
+    margin-bottom: 10px;
+    border-color: #AA77FF;
+
+}
+
+.item-completed:checked +   .item-description {
+    background: #dddddd;
+    text-decoration: line-through;
+    align-content: center;
+}
+
+#add {
+    padding: 8px 14px;
+    font-weight: bold;
+    color: white;
+    background-color: #AA77FF;
+    cursor: pointer;
+    border-color: white;
+    border-radius: 10px;
+    padding: 10px 5%;
+    font-family: Verdana;
+}
+
