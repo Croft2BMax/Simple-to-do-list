@@ -1,5 +1,6 @@
 # Simple-to-do-list
 Tugas Kompetegram
+Aidha Salsa Billa - Tekkom 2A
 
 Cara penggunaan :
 1. Add Item untuk menambah list baru
