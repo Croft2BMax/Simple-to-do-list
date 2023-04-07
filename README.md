@@ -1,5 +1,5 @@
 # Simple-to-do-list
-Tugas Kompetegram
+Tugas Kompetegram - Study Group
 Aidha Salsa Billa - Tekkom 2A
 
 Cara penggunaan :
