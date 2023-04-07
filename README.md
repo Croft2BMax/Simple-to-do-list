@@ -6,4 +6,4 @@ Cara penggunaan :
 2. Setelah add item di klik akan ada container list yang harus diisi dengan nama task yang diinginkan dan ada checkbox sebelah kiri container
 3. Jika add item lagi, list pertama tadi akan ada dibawah list baru begitupun seterusnya
 4. List yang ter-checklist(finished task) akan ada dibawah list yang belum ter-checklist(unfinished task)
-5. Jika list yang terchecklist di hilangkan centang nya, maka akan pindah ke atas list tasks yang unfinished.  
+5. Jika list yang terchecklist di hilangkan centang nya, maka akan pindah ke atas, bersama dengan list tasks yang unfinished.  
